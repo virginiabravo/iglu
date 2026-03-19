@@ -2,7 +2,7 @@
 
 ## Análisis de una Webstory 
 
-### Datos generales:
+### Datos generales
 
 * Nombre: *What does it mean to be a teenager?*
 * Fecha de publicación: Abril, 2024
