@@ -29,5 +29,3 @@ Lo que hace que esta webstory sea llamativa es su uso permanente del *scroll*, d
 
 ### **Evaluación de efectividad**
 
-* entrega 1
-*plop
