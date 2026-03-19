@@ -29,3 +29,16 @@ Lo que hace que esta webstory sea llamativa es su uso permanente del *scroll*, d
 
 ### **Evaluación de efectividad**
 
+La efectividad de esta webstory radica en su capacidad para transformar datos complejos en una experiencia sensorial y reflexiva, destacando especialmente en tres áreas: claridad en la informaicón, calidad de los datos y relación texto-imagen.
+
+1. **Claridad de la información**:
+A pesar de manejar volúmenes masivos de datos temporales, utiliza comparaciones directas y etiquetas sencillas. Las visualizaciones no requieren que el lector sea un experto en estadística, ya que el diseño te guía automáticamente hacia las tendencias clave (como el aumento drástico del tiempo a solas y la disminución del tiempo presencial con amigos).
+
+2. **Calidad de los datos**:
+Al basarse en fuentes gubernamentales como la Oficina de Estadísticas Laborales de EE. UU., la credibilidad es alta. Los autores son transparentes sobre sus métodos y permiten explorar las variables, lo cual es fundamental en el periodismo de datos.
+
+3. **Relación texto-imagen**:
+El texto actúa como un narrador que explica el "porqué" detrás de los picos y valles de los gráficos. No hay redundancia; las imágenes no solo ilustran lo que dice el texto, sino que proporcionan la evidencia visual necesaria para que el lector llegue a sus propias conclusiones antes de leer el siguiente párrafo.
+
+Conclusión del análisis:
+"What does it mean to be a teenager?" es un modelo a seguir en la narrativa audiovisual y digital moderna. Logra humanizar los datos, convirtiendo una hoja de cálculo en una historia sobre la soledad, la adaptación y el cambio generacional. Su efectividad reside en que no solo informa sobre un fenómeno, sino que invita a la empatía hacia una generación que a menudo es malinterpretada por los medios convencionales.
