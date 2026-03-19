@@ -40,5 +40,12 @@ Al basarse en fuentes gubernamentales como la Oficina de Estadísticas Laborales
 3. **Relación texto-imagen**:
 El texto actúa como un narrador que explica el "porqué" detrás de los picos y valles de los gráficos. No hay redundancia; las imágenes no solo ilustran lo que dice el texto, sino que proporcionan la evidencia visual necesaria para que el lector llegue a sus propias conclusiones antes de leer el siguiente párrafo.
 
-Conclusión del análisis:
-"What does it mean to be a teenager?" es un modelo a seguir en la narrativa audiovisual y digital moderna. Logra humanizar los datos, convirtiendo una hoja de cálculo en una historia sobre la soledad, la adaptación y el cambio generacional. Su efectividad reside en que no solo informa sobre un fenómeno, sino que invita a la empatía hacia una generación que a menudo es malinterpretada por los medios convencionales.
+### **Áreas de mejora**
+
+* La estructura está diseñada para ser consumida de principio a fin de forma estrictamente vertical. Si un usuario quisiera volver rápidamente a un gráfico específico visto anteriormente para comparar un dato, se ve obligado a hacer un scroll manual prolongado, ya que carece de un menú de navegación por secciones o "anclas" que faciliten el acceso rápido a puntos clave de la historia.
+* Si bien el análisis del problema es brillante, la sección final sobre "qué hacer" o cómo recuperar esos espacios para los jóvenes se siente un poco breve en comparación con el extenso análisis de datos previo. Una mayor profundidad en las propuestas de política pública o diseño urbano habría redondeado mejor el cierre narrativo.
+
+### **Conclusión del análisis**
+*What does it mean to be a teenager?* es un excelente ejemplo de cómo los datos pueden contar historias humanas y profundas. Su mayor acierto no es solo mostrar gráficos atractivos, sino lograr que las estadísticas sobre la soledad y el cambio generacional se sientan cercanas y fáciles de entender para cualquier usuario.
+
+Aunque tiene puntos por mejorar en navegación y soluciones, la pieza cumple con creces su objetivo principal: generar empatía hacia los adolescentes de hoy y romper prejuicios. Al final, demuestra que el buen periodismo de datos puede ser una experiencia interactiva.
