@@ -34,7 +34,7 @@ Lo que me parece más interesante es que logra convertir una base de datos gigan
 
 ### **Evaluación de efectividad**
 
-La webstory es extremadamente efectiva porque logra que la información sea visualmente atractiva sin perder el rigor científico.
+La webstory es extremadamente efectiva porque logra que la información sea visualmente atractiva sin perder el rigor.
 
 1. **Claridad de la información**:
 Lo que más se destaca es el fácil entendimiento que tienen los gráficos a pesar de manejar una gran cantidad de datos. Se aprecia el usa de etiquetas sencillas para saber qué grupo de personas estás viendo en cada momento. Por ejemplo, dividiendo a los que crecieron con muchas o pocas experiencias adversas, y que además dentro de esos grupos se puedan hacer otras divisiones, permitiendo ver datos como los ingresos actuales de quienes crecieron con muchas experiencias adversas. Por otro lado, el texto, cuando se presenta, es breve y conciso, no roba protegonismo a las imágenes y crea un equilibrio que nos permite una lectura ligera pero profunda al mismo tiempo.
@@ -47,5 +47,5 @@ Como punto a mejorar, creo que la navegación es demasiado rígida. Al ser una h
 
 ![Cita final](imgs/imagen3.png)
 
-### **Conclusión del análisis**
-En conclusión, *What does it mean to be a teenager?* es un ejemplo excelente de cómo usar los datos para contar una historia con sentido humano. No se queda solo en porcentajes fríos, sino que usa la tecnología para visibilizar cómo la desigualdad se arrastra por décadas. Logra que el lector empatice con el "adulto fracasado" al recordarle que alguna vez fue un niño sin control sobre su entorno. Es una pieza de narrativa audiovisual que demuestra que el periodismo de datos puede no solo informar, sino que también nos invita a ser más comprensivos con las realidades ajenas.
+### **En conclusión:**
+*What does it mean to be a teenager?* es un ejemplo excelente de cómo usar los datos para contar una historia con sentido humano. No se queda solo en porcentajes fríos, sino que usa la tecnología para visibilizar cómo la desigualdad se arrastra por décadas. Logra que el lector empatice con el "adulto fracasado" al recordarle que alguna vez fue un niño sin control sobre su entorno. Es una pieza de narrativa audiovisual que demuestra que el periodismo de datos puede no solo informar, sino que también nos invita a ser más comprensivos con las realidades ajenas.
