@@ -10,42 +10,42 @@
 * URL: https://pudding.cool/2024/03/teenagers/ 
 
 
+![Ejemplo gráficos](imgs/imagen2.png)
+
 ### **Descripción de la historia**
-Esta webstory de The Pudding es un profundo análisis sociológico y estadístico sobre la evolución de la adolescencia en las últimas décadas, se centra principalmente en cómo los jóvenes utilizan su tiempo. Contrario a las narrativas tradicionales, esta webtory no estigmatiza el uso de tecnología en los adolescentes, sino que, a través de los datos de la Encuesta sobre el Uso del Tiempo en los Estados Unidos (American Time Use Survey), se desglosan actividades diarias: desde el tiempo dedicado al sueño y el estudio, hasta la socialización y el ocio solitario.
 
-La webstory explora el declive de los "terceros espacios" (lugares físicos de reunión no institucionales) y cómo el entorno digital ha absorbido gran parte de la vida social, lo que ha transformado la experiencia de crecimiento en el siglo XXI.
+Esta webstory cuenta el viaje de una generación específica de estadounidenses que en 1997 eran adolescentes (con una edad promedio de 13 años) y a quienes se les siguió la pista durante 24 años, hasta el 2021, cuando ya tenían unos 37 años. La historia utiliza los datos de la Encuesta Nacional Longitudinal de la Juventud 1997 para mostrarnos cómo el punto de partida de un niño define casi por completo su destino como adulto.
 
-Por lo que, el sitio plantea la siguiente pregunta: *¿están los adolescentes realmente más aislados o simplemente están cambiando sus espacios de interacción?*
+La narrativa nos lleva por tres etapas clave. Primero, nos muestra la realidad de estos chicos en 1997: sus ingresos familiares, si vivían con ambos padres biológicos y el entorno de sus hogares. Luego, nos traslada al 2021 para ver los resultados de esas mismas personas en su adultez: cuánto dinero ganan, su nivel de estudios y su estado de salud. El relato principal no es solo estadístico, sino humano; trata sobre cómo la sociedad tiene mucha compasión por los niños que sufren hogares disfuncionales o pobreza, pero cómo esa misma sociedad cambia totalmente de actitud cuando esos niños crecen. Al llegar a los 18 años, se espera que "se arreglen solos" y, si fracasan o son pobres a los 37 años, se les culpa individualmente sin reconocer que cargan con las consecuencias de un contexto que ellos no eligieron.
+
+*"Then we turn 18 and we're expected to be "adults" and figure things out.
+If we fail, we are punished."*
+
+![Cita final](imgs/imagen1.png)
 
  ### **Estructura narrativa y aspectos a destacar**
 
-Lo que hace que esta webstory sea llamativa es su uso permanente del *scroll*, donde la narrativa progresa a medida que el usuario se desplaza hacia abajo, activando animaciones y cambios en las visualizaciones de forma fluida. Si bien es una técnica que se utiliza a diario en redes sociales, y en las pantallas en general, aquí toma un papel protagónico ya que historia contada está directamente relacionada con el uso de la tecnología en adolescentes.
+Lo que me parece más interesante es que logra convertir una base de datos gigante y abrumadora en un relato que se siente personal. No se lee una tabla de excel, sino que se sigue la evolución de miles de personas - con Alex como ejemplo designado- a lo largo de la mitad de su vida en tan solo unos minutos.
 
 ### Aspectos a destacar
-* **Identidad Visual Coherente**: El diseño utiliza una estética que recuerda a un cuaderno de bocetos o un diario escolar, con tipografías que simulan la escritura a mano y colores pastel. Esto no es solo estético; establece una conexión emocional inmediata con el tema de la adolescencia, haciendo que los datos se sientan más cercanos.
-* **Transiciones de Datos**: En lugar de presentar gráficos estáticos aislados, la pieza utiliza gráficos de áreas y diagramas de flujo que se transforman dinámicamente. Por ejemplo, al comparar el tiempo invertido en 2003 frente a 2022, los elementos visuales se desplazan y reordenan, permitiendo al lector "ver" el movimiento del tiempo social en tiempo real.
-* **Equilibrio Narrativo**: La estructura no bombardea al usuario con cifras de inmediato. Comienza con una premisa personal y relatable, utiliza el texto para guiar la interpretación de los gráficos y cierra con una reflexión sobre las causas del sistema (urbanismo, seguridad, tecnología) que afectan a los jóvenes.
-* **Interactividad**: La inclusión de herramientas donde el usuario puede comparar su propia experiencia adolescente o ver datos específicos según el género o la edad añade un sello de personalización e incentiva a la participación del usuario.
+* **El uso de animaciones como representación humana:**: Cada punto que se mueve en el gráficos es una de las personas encuestadas. Ver cómo esos miles de animaciones se separan y se agrupan según sus ingresos, su salud o raza es muy potente visualmente. Te permite entender la "desigualdad" de una forma física: ves cómo los grupos que empezaron con ventajas se mantienen arriba y los que empezaron con carencias se mantienen o descienden incluso más.
+* **El progreso mediante el scroll**: La historia está diseñada para que uno marque el ritmo. A medida que bajas, los datos de 1997 se transforman en los resultados de 2021. Esta transición fluida ayuda a entender la relación de causa y efecto entre la infancia y la adultez sin necesidad de muchas explicaciones técnicas.
+* **El cierre reflexivo**: Este es el punto más fuerte de la narrativa. La webstory no termina simplemente con un gráfico de resultados, sino que lanza una reflexión profunda sobre la pérdida de la compasión. Nos recuerda que el mundo es muy empático con el niño que sufre acoso o vive en un hogar disfuncional, pero que esa empatía se corta de golpe al cumplir los 18 años. La estructura narrativa utiliza los 24 años de datos acumulados para cuestionar por qué, como adultos, empezamos a "castigar" y culpar a las personas por no tener dinero o salud, olvidando que son los mismos niños vulnerables que vimos al principio del scroll. Este cierre le da un sentido ético a los datos: nos obliga a mirar al adulto de 37 años en 2021 no como un "fracaso individual", sino como el resultado lógico de una historia que empezó en 1997.
 
 ### **Evaluación de efectividad**
 
-La efectividad de esta webstory radica en su capacidad para transformar datos complejos en una experiencia sensorial y reflexiva, destacando especialmente en tres áreas: claridad en la informaicón, calidad de los datos y relación texto-imagen.
+La webstory es extremadamente efectiva porque logra que la información sea visualmente atractiva sin perder el rigor científico.
 
 1. **Claridad de la información**:
-A pesar de manejar volúmenes masivos de datos temporales, utiliza comparaciones directas y etiquetas sencillas. Las visualizaciones no requieren que el lector sea un experto en estadística, ya que el diseño te guía automáticamente hacia las tendencias clave (como el aumento drástico del tiempo a solas y la disminución del tiempo presencial con amigos).
+Lo que más se destaca es el fácil entendimiento que tienen los gráficos a pesar de manejar una gran cantidad de datos. Se aprecia el usa de etiquetas sencillas para saber qué grupo de personas estás viendo en cada momento. Por ejemplo, dividiendo a los que crecieron con muchas o pocas experiencias adversas, y que además dentro de esos grupos se puedan hacer otras divisiones, permitiendo ver datos como los ingresos actuales de quienes crecieron con muchas experiencias adversas. Por otro lado, el texto, cuando se presenta, es breve y conciso, no roba protegonismo a las imágenes y crea un equilibrio que nos permite una lectura ligera pero profunda al mismo tiempo.
 
-2. **Calidad de los datos**:
-Al basarse en fuentes gubernamentales como la Oficina de Estadísticas Laborales de EE. UU., la credibilidad es alta. Los autores son transparentes sobre sus métodos y permiten explorar las variables, lo cual es fundamental en el periodismo de datos.
+2. **Calidad de la fuente**:
+Al usar la encuesta NLSY97, la información tiene un respaldo institucional muy fuerte. No son suposiciones, son datos reales de seguimiento de 24 años. Esto hace que el mensaje final sobre la falta de movilidad social sea mucho más impactante.
 
-3. **Relación texto-imagen**:
-El texto actúa como un narrador que explica el "porqué" detrás de los picos y valles de los gráficos. No hay redundancia; las imágenes no solo ilustran lo que dice el texto, sino que proporcionan la evidencia visual necesaria para que el lector llegue a sus propias conclusiones antes de leer el siguiente párrafo.
+3. **Áreas de mejora**:
+Como punto a mejorar, creo que la navegación es demasiado rígida. Al ser una historia tan larga que depende totalmente del scroll, si quieres comparar un dato de la adultez con uno de la infancia, es muy difícil volver atrás sin perder el hilo. Además, aunque los gráficos son impactantes, en dispositivos móviles pueden ser un poco difíciles de manipular debido a la gran cantidad de elementos en movimiento. También se echa de menos alguna comparativa con datos de otros países para saber si este patrón de falta de movilidad social es igual en todo el mundo o algo específico de la cultura estadounidense. Ádemas, mejoraría la experiencia si es que además de los gráficos pudieramos ver el equivalente en números o porcentajes, ya que hay momentos donde dentro de las tres grandes categorías se hacen varios sub-grupos que hacen que cueste un poco más el entendimiento a momentos.
 
-### **Áreas de mejora**
-
-* La estructura está diseñada para ser consumida de principio a fin de forma estrictamente vertical. Si un usuario quisiera volver rápidamente a un gráfico específico visto anteriormente para comparar un dato, se ve obligado a hacer un scroll manual prolongado, ya que carece de un menú de navegación por secciones o "anclas" que faciliten el acceso rápido a puntos clave de la historia.
-* Si bien el análisis del problema es brillante, la sección final sobre "qué hacer" o cómo recuperar esos espacios para los jóvenes se siente un poco breve en comparación con el extenso análisis de datos previo. Una mayor profundidad en las propuestas de política pública o diseño urbano habría redondeado mejor el cierre narrativo.
+![Cita final](imgs/imagen3.png)
 
 ### **Conclusión del análisis**
-*What does it mean to be a teenager?* es un excelente ejemplo de cómo los datos pueden contar historias humanas y profundas. Su mayor acierto no es solo mostrar gráficos atractivos, sino lograr que las estadísticas sobre la soledad y el cambio generacional se sientan cercanas y fáciles de entender para cualquier usuario.
-
-Aunque tiene puntos por mejorar en navegación y soluciones, la pieza cumple con creces su objetivo principal: generar empatía hacia los adolescentes de hoy y romper prejuicios. Al final, demuestra que el buen periodismo de datos puede ser una experiencia interactiva.
+En conclusión, *What does it mean to be a teenager?* es un ejemplo excelente de cómo usar los datos para contar una historia con sentido humano. No se queda solo en porcentajes fríos, sino que usa la tecnología para visibilizar cómo la desigualdad se arrastra por décadas. Logra que el lector empatice con el "adulto fracasado" al recordarle que alguna vez fue un niño sin control sobre su entorno. Es una pieza de narrativa audiovisual que demuestra que el periodismo de datos puede no solo informar, sino que también nos invita a ser más comprensivos con las realidades ajenas.
