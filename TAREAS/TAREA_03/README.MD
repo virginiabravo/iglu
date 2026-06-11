@@ -10,7 +10,7 @@
 
 Para estructurar esta página web utilicé etiquetas de HTML e integré la identidad visual del proyecto grupal directamente mediante estilos internos (`<style>`).
 
-### 1. Estructura Semántica base
+### 1. Estructura base
 Organicé la crónica periodística dividiendo el contenido lógicamente:
 * Utilicé `<header>` para el título principal (`<h1>`) y la introducción.
 * Agrupé todo el cuerpo del reportaje en la etiqueta `<main>`, separando las distintas secciones analíticas con subtítulos (`<h2>`) y ordenando la lectura mediante párrafos (`<p>`).
@@ -21,10 +21,10 @@ Para que la pieza individual conversara visualmente con la webstory grupal, impo
 * El fondo utiliza el tono crema (`#FBF8F0`) y el texto principal el azul profundo (`#1F3D5B`) para asegurar contraste y legibilidad.
 * Agregué una línea divisoria (`<hr>`) debajo del título y le asigné el color borgoña (`#86223E`), estipulado para los destacados internos, separando claramente la cabecera del inicio de la lectura.
 
-### 3. Formato del texto periodístico
+### 3. Formato del texto
 Para darle un aspecto formal de crónica, apliqué justificado (`text-align: justify;`) a todos los párrafos. Además, utilicé la etiqueta `<strong>` (vinculada al color borgoña de la identidad visual grupal) para resaltar datos numéricos impactantes (como las *9.259 visitas* de la chinchilla) y conceptos teóricos clave (como *"termómetro cultural"* o *"extinción virtual"*). Esto ayuda a guiar el escaneo visual del lector hacia los hallazgos principales.
 
-### 4. Inserción y ajuste de la Visualización
+### 4. Ajuste de la Visualización
 Uno de los mayores retos fue la carga del gráfico (`vis_02.jpg`). Tuve que utilizar **rutas relativas** asegurándome de que la imagen y el archivo `index.html` estuvieran en la misma carpeta del repositorio para que no apareciera rota en GitHub Pages. 
 Para evitar que el tamaño original de la imagen rompiera los márgenes y generara *scroll* horizontal, le asigné un `width: 100%`, envolviéndola en un contenedor con un fondo amarillo pálido (`#EFEDA0`) que la resalta del resto de la página y combina con las crónicas de mis compañeras.
 
